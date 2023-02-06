@@ -1,3 +1,7 @@
+## Acknowlegement
+
+This lecture note is mainly based on work from Professor [Marwan Sabbouh](https://www.linkedin.com/in/marwansabbouh/).
+
 ## Introduction to the topic
 
 What is strongly typed?
